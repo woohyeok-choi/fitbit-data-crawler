@@ -122,3 +122,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+
+main.py
+
+chromedriver-85.exe
